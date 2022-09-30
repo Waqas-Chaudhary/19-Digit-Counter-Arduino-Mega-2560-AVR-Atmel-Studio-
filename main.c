@@ -4,8 +4,8 @@
 
 void init()
 {
-	DDRA=0xFF;//7 Segment 1 
-	DDRB=0xFF;//7 Segment 2
+	DDRA=0xFF;//Port A for 7 Segment 1 
+	DDRB=0xFF;//Port B for 7 Segment 2
 }
 int main(void)
 {
