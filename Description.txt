@@ -1,0 +1,1 @@
+Make 0 to 19 counter (in an infinite loop) using 7-Segment. Show its Proteus simulation. Implement hardware as well on breadboard and get it checked.
